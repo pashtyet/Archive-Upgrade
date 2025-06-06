@@ -63,11 +63,13 @@ clients = {
         {"name": "CHP-cheatspacks", "link": "https://cheats-pack.su/", "clean": False},
         {"name": "RockPacks", "link": "https://rockpacks.ru/", "clean": False},
         {"name": "CheatsHub", "link": "https://cheathub.tech/", "clean": True},
+        
     ],
     "Launchers": [
         {"name": "Collapse loader", "link": "https://collapseloader.org/", "clean": True},
         {"name": "Newlauncher", "link": "https://newlauncher.ru/", "clean": False},
         {"name": "Aorus Launcher", "link": "https://t.me/CastleOfCatlavan/8", "clean": False},
+        {"name": "Greph client", "link": "t.me/grephclient", "clean": True},
     ],
     "Rp": [
         {"name": "Дубинка", "link": "https://t.me/CastleOfCatlavan/16", "clean": False}
@@ -93,7 +95,11 @@ clients = {
         {"name": "Delta beta", "link": "https://t.me/CastleOfCatlavan/15", "clean": False},
         {"name": "Arbuz client", "link": "https://t.me/CastleOfCatlavan/14", "clean": False},
         {"name": "DimasikDLC", "link": "https://t.me/CastleOfCatlavan/20", "clean": True},
-        {"name": "Wild client", "link": "https://t.me/CastleOfCatlavan/21", "clean": True},
+        {"name": "Wild client", "link": "https://t.me/CastleOfCatlavan/22", "clean": True},
+        {"name": "Spectra recode", "link": "https://t.me/CastleOfCatlavan/21", "clean": True},
+        {"name": "Dick client", "link": "https://t.me/CastleOfCatlavan/31", "clean": True},
+        {"name": "Rogalik client", "link": "https://t.me/CastleOfCatlavan/30", "clean": True},
+        {"name": "Catlavan client NEW", "link": "https://t.me/CastleOfCatlavan/32", "clean": False},
     ]
 }
 
